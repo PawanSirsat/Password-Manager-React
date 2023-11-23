@@ -29,7 +29,10 @@ const SavedPasswords = () => {
 
   function cleanDomain(input) {
     // Remove "www." and ".com" if present
-    const cleanedInput = input.replace(/^www\./i, '').replace(/\.com$/i, '')
+    const cleanedInput = input
+      .toLowerCase()
+      .replace(/^www\./i, '')
+      .replace(/\.com$/i, '')
 
     return cleanedInput
   }
