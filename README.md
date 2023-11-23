@@ -35,7 +35,7 @@ npm run dev
 
 ## Screenshots
 
-![image](https://github.com/PawanSirsat/Password-Manager-React/assets/48860105/852cf144-c2b9-4d7e-a607-a041596b454c)
+![Screenshot (449)](https://github.com/PawanSirsat/Password-Manager-React/assets/48860105/fe4ec9fd-21d8-4f28-89d1-ef81bcf1f350)
 
 
 ## Technologies Used
