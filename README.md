@@ -1,9 +1,3 @@
-Certainly! Writing a good README is crucial for any open-source project, as it helps users and contributors understand your project, how to use it, and how to contribute. Here's a template you can use for your React app with an auto-password generator:
-
-# Project Name
-
-[Project Logo/Icon]
-
 ## Project Description
 
 A React app that generates secure passwords and allows users to save website usernames and passwords locally for enhanced security.
@@ -18,10 +12,10 @@ A React app that generates secure passwords and allows users to save website use
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/PawanSirsat/Password-Manager-React.git
 
 # Navigate to the project folder
-cd your-repo
+cd Password-Manager-React
 
 # Install dependencies
 npm install
@@ -47,8 +41,8 @@ npm run dev
 ## Technologies Used
 
 - React
-- [Fontawesome]
-- [Tailwindcss]
+- Fontawesome
+- Tailwindcss
 
 ## Contributing
 
