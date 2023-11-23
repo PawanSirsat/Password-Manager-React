@@ -22,7 +22,7 @@ const App = () => {
       <div className='flex h-screen'>
         {/* Left Side Navbar */}
         <div className='bg-gray-800 text-white p-4 fixed h-full'>
-          <h1 className='text-xl font-bold mb-4 text-blue-500'>
+          <h1 className='text-xl font-bold mb-4 text-blue-600'>
             Password Manager
           </h1>
           <nav>
